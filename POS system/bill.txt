@@ -1,0 +1,9 @@
+------------------------------------------------------------
+The bill for 2. Table 2
+                Item      Quantity           Price
+               Steak         3          R      360
+The total for your order is: R360 
+
+You were helped by Sarah
+--------------------------------------------------------------
+
